@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbdfa8782572e6c4e8f3c2a875923c6b, type: 3}
+  m_Name: Level01
+  m_EditorClassIdentifier: 
+  levelIndex: 0
+  questions:
+  - soru: "\u0130nsan\u0131n Ka\xE7 G\xF6z\xFC Vard\u0131r?"
+    cevaplar:
+    - dogrubu
+    - 321312
+    - 321321
+    dogrucevap: A
+  - soru: "\u0130nsan\u0131n Ka\xE7 G\xF6z\xFC Vard\u0131r?"
+    cevaplar:
+    - 1
+    - 2
+    - 3
+    dogrucevap: B
+  - soru: "\u0130nsan\u0131n Ka\xE7 kolu Vard\u0131r?"
+    cevaplar:
+    - 2
+    - 3
+    - 4
+    dogrucevap: A
+  - soru: "\u0130nsan\u0131n Ka\xE7 Baca\u011F\u0131 Vard\u0131r?"
+    cevaplar:
+    - 1
+    - 3
+    - 2
+    dogrucevap: C
+  - soru: "\u0130nsan\u0131n Ka\xE7 di\u015Fi Vard\u0131r?"
+    cevaplar:
+    - 1
+    - 32
+    - 21
+    dogrucevap: B
+  - soru: "\u0130nsan\u0131n Ka\xE7 kula\u011F\u0131 Vard\u0131r?"
+    cevaplar:
+    - 1
+    - 5
+    - 2
+    dogrucevap: C
+  - soru: "\u0130nsan\u0131n Ka\xE7  Vard\u0131r?"
+    cevaplar:
+    - 1
+    - 2
+    - 4
+    dogrucevap: A
+  - soru: "\u0130nsan\u0131n Ka\xE7 a\u011Fz\u0131 Vard\u0131r?"
+    cevaplar:
+    - 1
+    - 3
+    - 21
+    dogrucevap: A
+  - soru: adwdawaw
+    cevaplar:
+    - adsdawdaw
+    - awdawdwad
+    - dogru bu
+    dogrucevap: C
+  - soru: AWDAWDAWDAW
+    cevaplar:
+    - awddwadw
+    - dogru bu
+    - awdwad
+    dogrucevap: B
